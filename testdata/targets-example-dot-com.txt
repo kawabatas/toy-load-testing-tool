@@ -1,0 +1,4 @@
+GET https://example.com
+
+// skip comments
+HEAD https://example.com
